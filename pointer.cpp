@@ -9,4 +9,7 @@ int main()
 
     // creation of pointer
     int *ptr = &a;
+
+    // accessing value of ptr
+    cout << ptr << endl;
 }
