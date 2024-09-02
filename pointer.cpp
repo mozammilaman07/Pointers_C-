@@ -15,4 +15,6 @@ int main()
     // printing the value of a by ptr
     cout << *ptr << endl;
     cout << &ptr << endl;
+
+    cout << "size of ptr : " << sizeof(ptr) << endl;
 }
