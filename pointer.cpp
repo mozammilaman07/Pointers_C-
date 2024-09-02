@@ -10,6 +10,8 @@ int main()
     // creation of pointer
     int *ptr = &a;
 
-    // accessing value of ptr
+    // accessing value of ptr(address)
     cout << ptr << endl;
+    // printing the value of a by ptr
+    cout << *ptr << endl;
 }
