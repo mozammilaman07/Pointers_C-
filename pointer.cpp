@@ -14,4 +14,5 @@ int main()
     cout << ptr << endl;
     // printing the value of a by ptr
     cout << *ptr << endl;
+    cout << &ptr << endl;
 }
