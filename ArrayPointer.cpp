@@ -10,4 +10,5 @@ int main()
     cout << &arr << endl;
     cout << &arr[0] << endl;
     cout << *arr << endl;
+    cout << *arr + 1 << endl;
 }
