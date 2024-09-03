@@ -7,4 +7,5 @@ int main()
     int n = 5;
     cout << arr << endl;
     cout << arr[0] << endl;
+    cout << &arr << endl;
 }
